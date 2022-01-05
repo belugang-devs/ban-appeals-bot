@@ -1,0 +1,2 @@
+language = "bash"
+run = "deno run --allow-read --allow-net --allow-env --unstable --no-check index.ts "
